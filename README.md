@@ -28,7 +28,7 @@ Clinical AI system that ingests multimodal patient records, reconciles medicatio
 
 `LangGraph` `Gemini` `Mistral` `FastAPI` `Next.js`
 
-[`→ View repo`](#)
+[`→ View repo`](https://github.com/mad-man22/discharge_agent)
 
 </td>
 <td width="50%" valign="top">
@@ -39,7 +39,7 @@ Self-hosted AI music streaming platform with gapless playback, Gemini-powered na
 
 `LangChain` `Gemini` `WebSockets` `Python`
 
-[`→ View repo`](#)
+[`→ View repo`](https://github.com/mad-man22/museflow_opensource_music_app)
 
 </td>
 </tr>
@@ -52,7 +52,7 @@ AI-powered placement prep platform with Gemini resume-to-JD skill matching and a
 
 `Gemini API` `Supabase` `React` `TypeScript`
 
-[`→ View repo`](#)
+[`→ View repo`](https://github.com/mad-man22/Pes-placement-portal)[`→ View live`](https://pes-insyt.talenciaglobal.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@ Real-time emergency response app with PostGIS nearest-ambulance matching, OSRM r
 
 `PostGIS` `OSRM` `Socket.io` `Full-stack`
 
-[`→ View repo`](#)
+[`→ View repo`](https://github.com/mad-man22/Ambulance_app_code)
 
 </td>
 </tr>
