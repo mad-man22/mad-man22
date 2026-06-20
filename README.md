@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:000000&height=200&section=header&text=Keertan%20BJ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Native%20Full%20Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-<a href="https://www.linkedin.com/in/keertan-bj-816aa1214">
+<a href="https://www.linkedin.com/in/keertan-b-j-816aa1214">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:keertan004@gmail.com">
@@ -118,7 +118,7 @@ Designed multi-agent orchestration pipelines for structured corporate data extra
 <div align="center">
 ### 📫 Let's connect
  
-<a href="https://www.linkedin.com/in/keertan-bj-816aa1214">
+<a href="https://www.linkedin.com/in/keertan-b-j-816aa1214">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:keertan004@gmail.com">
